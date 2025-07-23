@@ -1,2 +1,4 @@
 Today we just practice GitHub basic
 and create new repository
+
+kichu akta update kortechi - just for checking
